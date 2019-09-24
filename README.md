@@ -1,6 +1,10 @@
 # googleapis-wrapper
  A Node.js Wrapper around Google APIs Client Library (googleapis)
 
+## Third-Party libraries:
+
+* https://github.com/esoodev/extract-json-string
+* https://github.com/EmilTholin/gmail-api-create-message-body
 
 ```js
 const GooglePlugin = require('./googleapis.js')
