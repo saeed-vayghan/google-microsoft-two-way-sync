@@ -3,8 +3,8 @@
 
 ## Third-Party libraries:
 
-* https://github.com/esoodev/extract-json-string
-* https://github.com/EmilTholin/gmail-api-create-message-body
+* https://github.com/saeed-vayghan/googleapis-wrapper/blob/master/helper/extract_json.js
+* https://github.com/saeed-vayghan/gmail-multipart-body-maker
 
 ```js
 const GooglePlugin = require('./googleapis.js')
